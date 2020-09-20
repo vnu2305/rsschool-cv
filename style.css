@@ -1,4 +1,13 @@
+.container
+{
+    width: 1024px;
+    margin:0 auto ;
+}
 header
 {
-    text-align: center;
+    text-align: right;
+}
+header div p
+{ 
+    opacity: 0.5;
 }
